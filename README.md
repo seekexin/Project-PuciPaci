@@ -1,2 +1,2 @@
-Puci Paci Music Player
-Puci Paci Music Player is a music player website that is inspired by Spotify 
+<h1>Puci Paci Music Player<h1>
+Puci Paci Music Player is a music player website that is inspired by Spotify.
